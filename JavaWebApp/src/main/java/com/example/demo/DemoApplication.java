@@ -10,4 +10,5 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-}
+Integer age = "20";
+System.out.println(age + 5);
